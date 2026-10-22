@@ -1,0 +1,27 @@
+[
+  {
+    "local_path": "weights/hiref_det_visdrone.pt",
+    "bytes": 5822809,
+    "sha256": "075040a7d57ee4cc6f71679fe164e8dab5dd5c848b924c15653a9882a054245d"
+  },
+  {
+    "local_path": "weights/yolo11n_baseline_visdrone.pt",
+    "bytes": 5460563,
+    "sha256": "cf17b504883b0f2972e532ab6ceb7c1c088af857e090bec2786e74dd04d677a6"
+  },
+  {
+    "local_path": "weights/yolo11n_p2_visdrone.pt",
+    "bytes": 5747453,
+    "sha256": "83212d865ed81a3d1fbedb16b23b268e0f6e711c3a2ff6c204dc08652c54b20c"
+  },
+  {
+    "local_path": "weights/yolo11n_p2_lcda_visdrone.pt",
+    "bytes": 5801711,
+    "sha256": "5a4c88bc7b7f3e95696978428d2163b6176df4641ccc0c784efd361e86899424"
+  },
+  {
+    "local_path": "weights/yolo11n_pretrained.pt",
+    "bytes": 5613764,
+    "sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1"
+  }
+]
